@@ -1,0 +1,23 @@
+main{
+  
+  
+  padding: 30px;
+}
+figure {
+	float: left;
+	padding: 4px;
+	margin-right: 10px;
+}
+address{
+	
+	padding-left: 50px;
+	padding-top: 40px;
+}
+
+.previous {
+	padding-top: 100;
+	float: left;
+}
+.clear {
+	clear: both;
+}
